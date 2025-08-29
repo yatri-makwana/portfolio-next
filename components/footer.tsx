@@ -13,7 +13,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent mb-4">
-              John Doe
+              Yatri Makwana
             </h3>
             <p className="text-gray-400 leading-relaxed">
               Full Stack Developer passionate about creating beautiful, 
@@ -45,10 +45,10 @@ export function Footer() {
             <h4 className="text-lg font-semibold mb-4">Get In Touch</h4>
             <div className="space-y-2">
               <a 
-                href="mailto:john.doe@example.com"
+                href="mailto:yatumakwana206@gmail.com"
                 className="block text-gray-400 hover:text-white transition-colors"
               >
-                john.doe@example.com
+                yatumakwana206@gmail.com
               </a>
               <a 
                 href="tel:+1234567890"
@@ -82,7 +82,7 @@ export function Footer() {
             <Linkedin size={24} />
           </motion.a>
           <motion.a
-            href="mailto:john.doe@example.com"
+            href="mailto:yatumakwana206@gmail.com"
             whileHover={{ scale: 1.1 }}
             className="p-3 bg-gray-800 rounded-lg text-gray-400 hover:text-white hover:bg-gray-700 transition-all duration-300"
           >
@@ -93,7 +93,7 @@ export function Footer() {
         {/* Copyright */}
         <div className="text-center pt-8 border-t border-gray-800">
           <p className="text-gray-400 flex items-center justify-center gap-2">
-            © {currentYear} John Doe. Made with <Heart size={16} className="text-red-500" /> using Next.js & Tailwind CSS
+            © {currentYear} Yatri Makwana. Made with <Heart size={16} className="text-red-500" /> using Next.js & Tailwind CSS
           </p>
         </div>
       </div>

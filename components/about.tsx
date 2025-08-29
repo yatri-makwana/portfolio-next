@@ -68,7 +68,7 @@ export function About() {
               About Me
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-              I'm a passionate full-stack developer with 5+ years of experience building 
+              I&apos;m a passionate full-stack developer with 5+ years of experience building 
               modern web applications. I love turning complex problems into simple, 
               beautiful solutions.
             </p>
@@ -129,11 +129,11 @@ export function About() {
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
                   I specialize in modern JavaScript frameworks, cloud technologies, and 
-                  database design. I'm always eager to learn new technologies and stay 
+                  database design. I&apos;m always eager to learn new technologies and stay 
                   up-to-date with industry best practices.
                 </p>
                 <p className="text-gray-600 dark:text-gray-400 leading-relaxed">
-                  When I'm not coding, you can find me contributing to open-source projects, 
+                  When I&apos;m not coding, you can find me contributing to open-source projects, 
                   writing technical blogs, or exploring the latest in web development trends.
                 </p>
               </div>

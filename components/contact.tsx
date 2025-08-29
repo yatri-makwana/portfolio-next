@@ -45,8 +45,8 @@ export function Contact() {
               Get In Touch
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-              I'm always open to discussing new opportunities, interesting projects, 
-              or just having a chat about technology. Let's connect!
+              I&apos;m always open to discussing new opportunities, interesting projects, 
+              or just having a chat about technology. Let&apos;s connect!
             </p>
           </div>
         </BlurFade>
@@ -57,11 +57,11 @@ export function Contact() {
             <div className="space-y-8">
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
-                  Let's Talk
+                  Let&apos;s Talk
                 </h3>
                 <p className="text-gray-600 dark:text-gray-400 mb-8 leading-relaxed">
                   Whether you have a project in mind, want to collaborate, or just want to say hello, 
-                  I'd love to hear from you. I typically respond within 24 hours.
+                  I&apos;d love to hear from you. I typically respond within 24 hours.
                 </p>
               </div>
 
@@ -76,10 +76,10 @@ export function Contact() {
                   <div>
                     <h4 className="font-semibold text-gray-900 dark:text-white">Email</h4>
                     <a 
-                      href="mailto:john.doe@example.com"
+                      href="mailto:yatumakwana206@gmail.com"
                       className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
                     >
-                      john.doe@example.com
+                      yatumakwana206@gmail.com
                     </a>
                   </div>
                 </motion.div>
